@@ -1,0 +1,11 @@
+store_id,store_name,city,region
+ST001,Chennai Central,Chennai,South
+ST002,Coimbatore Mall,Coimbatore,South
+ST003,Bangalore City,Bangalore,South
+ST004,Hyderabad Plaza,Hyderabad,South
+ST005,Mumbai Central,Mumbai,West
+ST006,Pune Market,Pune,West
+ST007,Delhi Hub,Delhi,North
+ST008,Jaipur Retail,Jaipur,North
+ST009,Kolkata Square,Kolkata,East
+ST010,Kochi Store,Kochi,South
